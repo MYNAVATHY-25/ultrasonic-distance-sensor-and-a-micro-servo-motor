@@ -30,5 +30,5 @@ Below is the physical circuit assembly of the system:
 ## Notes for Improvement
 * **Power Supply:** Use an external power source for the servo motor instead of pulling power directly from the Arduino board to prevent sudden system resets.
 * **Component Upgrade:** Swap the SG90 micro servo for a high-torque metal gear servo (like the MG996R) if you need to lift or push heavier physical mechanisms.
-* **Alert Mechanism:** Add a small buzzer or a status LED to give immediate visual or audio feedback whenever an object enters the detection zone.
-*<img width="900" height="1600" alt="Image1" src="https://github.com/user-attachments/assets/7d803ef9-4670-4e6e-835e-7d2aec76dd25" />
+* **Alert Mechanism:** Add a small buzzer or a status LED to give immediate visual or audio feedback whenever an object enters the detection zone.<img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/d2d450a8-f601-489b-83dd-f7bf98519593" />
+
