@@ -32,4 +32,3 @@ Below is the physical circuit assembly of the system:
 * **Component Upgrade:** Swap the SG90 micro servo for a high-torque metal gear servo (like the MG996R) if you need to lift or push heavier physical mechanisms.
 * **Alert Mechanism:** Add a small buzzer or a status LED to give immediate visual or audio feedback whenever an object enters the detection zone.
 *<img width="900" height="1600" alt="Image1" src="https://github.com/user-attachments/assets/7d803ef9-4670-4e6e-835e-7d2aec76dd25" />
-<img width="900" height="1600" alt="Image1" src="https://github.com/user-attachments/assets/62c22d8b-8476-4036-a5f5-f259dd81085e" />
